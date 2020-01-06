@@ -1,0 +1,11 @@
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.0\MemoryGame.exe
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.0\MemoryGame.deps.json
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.0\MemoryGame.runtimeconfig.json
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.0\MemoryGame.runtimeconfig.dev.json
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.0\MemoryGame.dll
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.0\MemoryGame.pdb
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.0\MemoryGame.csprojAssemblyReference.cache
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.0\MemoryGame.AssemblyInfo.cs
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.0\MemoryGame.dll
+C:\Users\mitch\Documents\C#\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.0\MemoryGame.pdb
